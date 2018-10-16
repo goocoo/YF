@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 发哥的网页开始啦！哈哈哈哈哈哈哈！
 
 You can use the [editor on GitHub](https://github.com/goocoo/YF/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
