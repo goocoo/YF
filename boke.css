@@ -56,7 +56,7 @@ a{
     float: right;
     width: 80%;
     height: 100%;
-    background-color: rgb(180 180 180);
+    background-color: grey;
     margin-left: 10px;
 }
 .right::after{
